@@ -1,8 +1,9 @@
 # Wifiter DOS
 
 Wifiter Dos version 1.0
-dos written in bash language.
-perform basic attacks on wifi router.
-it can perform TCP SYN, ACK flood on wifi
-disables wifi for some seconds.
-still working on it to make it better. 
+DOS script written in bash language,
+Performs basic attacks on wifi router,
+It can perform TCP SYN, ACK flood on wifi,
+Disables wifi for some seconds,
+Enter name of router manufacturer to perform attacks,
+Still working on it to make it better. 
