@@ -40,7 +40,7 @@ sleep 3
 #title and created by/basic info
 echo $lightgreen
 echo " WIFITER V1.0  "
-echo "             by _snaqvi"
+echo "             by naqviO7"
 
 sleep 2
 #scanning for wifi
