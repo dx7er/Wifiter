@@ -15,18 +15,17 @@ orange='\e[38;5;166m'
 
 #RUN THIS SCRIPT UNDER ROOT PRIVILEGES.....
 
-clear
-
+clear && sleep 3
 #title and created by/basic info
 echo $lightgreen
-echo "           _    __   _   _                 
+echo " 
+            _    __   _   _                 
 __      __ (_)  / _| (_) | |_    ___   _ __ 
 \ \ /\ / / | | | |_  | | | __|  / _ \ | '__|
  \ V  V /  | | |  _| | | | |_  |  __/ | |   
-  \_/\_/   |_| |_|   |_|  \__|  \___| |_|   
-                                              " && sleep 2
-echo "                                  Version 2.0"
-echo "                                      by naqviO7"
+  \_/\_/   |_| |_|   |_|  \__|  \___| |_|   " && sleep 2
+echo "                                Version 2.0"
+echo "                                    by naqviO7"
 
 sleep 3
 
