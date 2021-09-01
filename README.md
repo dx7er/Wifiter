@@ -1,9 +1,8 @@
 # Wifiter DOS
-# You must run this script under root previliges
-Wifiter Dos version 1.0
-DOS script written in bash language.
-Performs basic attacks on wifi router.
-It will continuously blocks wifi.
-Performs Deauth Attack.
-I will keep uploading its new versions.
-Please like and follow my github :).
+Bsah DOS Script. Blocks Wifi which user wants to block.
+Do Follow my GIHUB :)
+# Source Code Png.
+![carbon(1)](https://user-images.githubusercontent.com/79792270/131727235-2da8f77f-2bc2-4267-b1e0-91e238888216.png)
+
+# NOTE:
+ ## Run this script under root previliges
