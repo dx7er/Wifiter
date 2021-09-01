@@ -15,6 +15,8 @@ orange='\e[38;5;166m'
 
 #RUN THIS SCRIPT UNDER ROOT PRIVILEGES.....
 
+clear
+
 #title and created by/basic info
 echo $lightgreen
 echo "           _    __   _   _                 
