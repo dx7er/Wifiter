@@ -90,6 +90,6 @@ dos(){
 }
 
 #calling main function
-menu
+main
 
 #END OF CODE
