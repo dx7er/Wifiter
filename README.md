@@ -11,6 +11,10 @@ Bash DOS Script. Blocks Wifi which user wants to block. Linux Tool.
 # How To USE:
 1. Enter BSSID of Router
 2. Enter Channel of Router
+3. Attack the Router
+
+# Get Source Code:
+Download Code using `git clone https://github.com/naqviO7/Wifiter.git` command! 
 
 # Command To RUN:
 sh `filename.sh`
