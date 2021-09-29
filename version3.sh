@@ -1,14 +1,15 @@
-####################################################
-#		      Wifiter 		           #	
-####################################################
-#   Bash Script to Perfrom DOS on Wifi-Router       #
-#      Version: 3.0				    #
-#	Author: naqviO7 *saqlainnaqvi*              #
-#####################################################
+#!/bin/bash
+
+#desclaimer/description
+#################################################
+#		      Wifiter 		        #	
+#################################################
+#   Bash Script to Perfrom DOS on Wifi-Router   #
+#      Version: 3.0				#
+#	Author: naqviO7 *saqlainnaqvi*          #
+#################################################
 
 #STARTOFCODE
-
-#!/bin/bash
 
 #colors used in this script
 red='\e[1;31m'
